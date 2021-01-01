@@ -20,11 +20,11 @@ header {
 }
 .nav-area li {
   display: inline-block;
+  margin-right: 15px;
 }
 .nav-area li a {
   color: #fff;
   text-decoration: none;
-  padding: 10px;
   font-family: poppins;
   font-size: 16px;
 }
